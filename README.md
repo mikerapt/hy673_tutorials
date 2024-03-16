@@ -7,3 +7,5 @@ All the tutorials for the course HY-673: Introduction to Deep Generative Modelli
 -Tutorial 3: Gaussian Mixture Model, Change of Variables, Multivariate Gaussian, Maximum Likelihood Estimation.
 
 -Tutorial 4: Multilayer Perceptron & GPU Training, 2D Convolution & Dimension Analysis & Feature Visualization, MelGAN's Generator (Weight Normalization, Skip & Residual Connections, etc.).
+
+-Tutorial 5: Reccurent Neural Networks, Long Short-Term Memory (LSTM), Gates Linear Units (GRUs).
