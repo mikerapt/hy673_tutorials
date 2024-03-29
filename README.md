@@ -8,4 +8,6 @@ All the tutorials for the course HY-673: Introduction to Deep Generative Modelli
 
 -Tutorial 4: Multilayer Perceptron (MLP) & GPU Training, 2D Convolution & Dimension Analysis & Feature Visualization, MelGAN's Generator (Weight Normalization, Skip & Residual Connections, etc.).
 
--Tutorial 5: Reccurent Neural Networks (RNNs), Long Short-Term Memory (LSTM), Gates Linear Units (GRUs).
+-Tutorial 5: Reccurent Neural Networks (RNNs), Long Short-Term Memory (LSTM), Gated Linear Units (GRUs).
+
+-Tutorial 6: PGFPlots, Transformer Theory (Attention Is All You Need), PyTorch's Transformer, Custom Transformer Implementation.
