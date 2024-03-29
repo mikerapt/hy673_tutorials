@@ -1,0 +1,33 @@
+\definecolor{green}{HTML}{1b9e77}
+\definecolor{orange}{HTML}{d95f02}
+
+\begin{tikzpicture}
+
+\begin{axis} [
+	grid=both,
+	height=0.6\linewidth,
+	width=\linewidth,
+	xmin=0, xmax=6.28318,
+	xtick={0, 0.78539, 1.57079, 2.35619, 3.14159, 3.92699, 4.71238, 5.49778, 6.28318},
+	xticklabels={$0$, $\frac{\pi}{4}$, $\frac{\pi}{2}$, $\frac{3\pi}{4}$, $\pi$, $\frac{5\pi}{4}$, $\frac{3\pi}{2}$, $\frac{7\pi}{4}$, $2\pi$},
+	xlabel={$\theta$},
+	ymin=-1, ymax=3,
+	ytick={-1, -0.5, 0, 0.5, 1, 1.5, 2, 2.5, 3},
+	legend pos=south west,
+]
+
+\addplot [line width=1.5pt, green] table [x=x, y=y, col sep=comma] {csv/costh.csv};
+\addlegendentry{$\cos(\theta)$}
+
+\addplot [line width=1.5pt, orange] table [x=x, y=y, col sep=comma] {csv/expcosth.csv};
+\addlegendentry{$e^{\cos(\theta)}$}
+
+\addplot [line width=1.2pt, dashed] table [x=x, y=y, col sep=comma] {csv/line.csv};
+
+\end{axis}
+
+\end{tikzpicture}
+
+% minx = 0, maxx = 6.283185307179586
+% miny = -0.9991351502732795, maxy = 2.718281828459045
+
