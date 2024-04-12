@@ -13,3 +13,5 @@ All the tutorials for the course HY-673: Introduction to Deep Generative Modelli
 -Tutorial 6: PGFPlots, Transformer Theory (Attention Is All You Need), PyTorch's Transformer, Custom Transformer Implementation.
 
 -Tutorial 7: Flow-based Generative Models: Non-Linear Independent Components Estimation (NICE, Coupling Layer, Scaling Layer), Dequantization, Gradient Clipping.
+
+-Tutorial 8: Variational Autoencoders (VAEs), Vector-Quantized VAEs (VQ-VAEs).
