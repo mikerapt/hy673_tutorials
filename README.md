@@ -15,3 +15,5 @@ All the tutorials for the course HY-673: Introduction to Deep Generative Modelli
 -Tutorial 7: Flow-based Generative Models: Non-Linear Independent Components Estimation (NICE, Coupling Layer, Scaling Layer), Dequantization, Gradient Clipping.
 
 -Tutorial 8: Variational Autoencoders (VAEs), Vector-Quantized VAEs (VQ-VAEs).
+
+-Tutorial 9: Diffusion Models, Noise Scheduler, U-Net, Channel Shuffling, Sigmoid Linear Unit (SiLU/Swish).
