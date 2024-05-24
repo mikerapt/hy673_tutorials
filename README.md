@@ -17,3 +17,5 @@ All the tutorials for the course HY-673: Introduction to Deep Generative Modelli
 -Tutorial 8: Variational Autoencoders (VAEs), Vector-Quantized VAEs (VQ-VAEs).
 
 -Tutorial 9: Diffusion Models, Noise Scheduler, U-Net, Channel Shuffling, Sigmoid Linear Unit (SiLU/Swish).
+
+-Tutorial 10: Generative Adversarial Networks (GANs), Deep Convolutional GAN (DCGAN), Batch Normalization, Wasserstein GAN (WGAN), WGAN with Gradient Penalty (WGAN-GP), MelGAN.
