@@ -6,16 +6,16 @@ All the tutorials for the course HY-673: Introduction to Deep Generative Modelli
 
 -Tutorial 3: Gaussian Mixture Model (GMM), Change of Variables, Multivariate Gaussian, Maximum Likelihood Estimation (MLE).
 
--Tutorial 4: Multilayer Perceptron (MLP) & GPU Training, 2D Convolution & Dimension Analysis & Feature Visualization, MelGAN's Generator (Weight Normalization, Skip & Residual Connections, etc.).
+-Tutorial 4: Multilayer Perceptron (MLP), GPU Training, 2D Convolution, Dimension Analysis, Feature Visualization, MelGAN's Generator, Weight Normalization, Skip & Residual Connections.
 
--Tutorial 5: Reccurent Neural Networks (RNNs), Long Short-Term Memory (LSTM), Gated Linear Units (GRUs).
+-Tutorial 5: Reccurent Neural Networks (RNNs), Vanilla RNN, Long Short-Term Memory (LSTM), Gated Linear Unit (GRU).
 
 -Tutorial 6: PGFPlots, Transformer Theory (Attention Is All You Need), PyTorch's Transformer, Custom Transformer Implementation.
 
 -Tutorial 7: Flow-based Generative Models: Non-Linear Independent Components Estimation (NICE, Coupling Layer, Scaling Layer), Dequantization, Gradient Clipping.
 
--Tutorial 8: Variational Autoencoders (VAEs), Vector-Quantized VAEs (VQ-VAEs).
+-Tutorial 8: Variational Autoencoder (VAE), Vector-Quantized VAE (VQ-VAE).
 
 -Tutorial 9: Diffusion Models, Noise Scheduler, U-Net, Channel Shuffling, Sigmoid Linear Unit (SiLU/Swish).
 
--Tutorial 10: Generative Adversarial Networks (GANs), Deep Convolutional GAN (DCGAN), Batch Normalization, Wasserstein GAN (WGAN), WGAN with Gradient Penalty (WGAN-GP), MelGAN.
+-Tutorial 10: Generative Adversarial Network (GAN), Deep Convolutional GAN (DCGAN), Batch Normalization, Wasserstein GAN (WGAN), WGAN with Gradient Penalty (WGAN-GP), MelGAN.
